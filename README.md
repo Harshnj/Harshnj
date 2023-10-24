@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Harsh Joshi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshnj" alt="harshnj" /></a> </p>
+
+- 🌱 I’m currently learning **We Development**
+
+- 💬 Ask me about **Java, Web Technologies**
+
+- 📫 How to reach me **harshnkjoshi@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CMQFKYnA38CPZ1A4MSpoeic1f3EbQxDP/view?usp=sharing](https://drive.google.com/file/d/1CMQFKYnA38CPZ1A4MSpoeic1f3EbQxDP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-joshi-8a10ba257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-joshi-8a10ba257/" height="30" width="40" /></a>
-<a href="https://instagram.com/harshjoshi414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshjoshi414" height="30" width="40" /></a>
+<a href="https://instagram.com/harshnkjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshnkjoshi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/harsh_joshi02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harsh_joshi02/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshnkjoshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshnkjoshi/" height="30" width="40" /></a>
 </p>
