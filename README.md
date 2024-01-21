@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshnkjoshi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CMQFKYnA38CPZ1A4MSpoeic1f3EbQxDP/view?usp=sharing](https://drive.google.com/file/d/1CMQFKYnA38CPZ1A4MSpoeic1f3EbQxDP/view?usp=sharing)
+- 📄 Know about my experiences [HARSH JOSHI CV](https://drive.google.com/file/d/1XysyZh7MtILmk5EMz5x_8gyWbD7ECmD8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
